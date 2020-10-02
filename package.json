@@ -1,0 +1,19 @@
+{
+  "name": "mathjax-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PasteGo/mathjax-render.git",
+  "author": "Dup4",
+  "license": "MIT",
+  "devDependencies": {
+    "clean-css": "4.1.11",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-minifier": "^0.1.8",
+    "lodash": "^4.17.19",
+    "lodash.template": "^4.5.0",
+    "merge-stream": "^2.0.0",
+    "yargs-parser": "^13.1.2"
+  }
+}
