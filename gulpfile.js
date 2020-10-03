@@ -26,7 +26,7 @@ function htmlMin(source, destion) {
 }
 
 function gao() {
-    return htmlMin("./src/*.html", "./docs");
+    return htmlMin("./src/*.html", "./dist");
 }
 
 exports.gao = gao;
