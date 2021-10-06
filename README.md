@@ -1,2 +1,2 @@
-# mathjax-render
+# mathjax-preview
 
